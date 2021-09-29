@@ -1,0 +1,10 @@
+.headrbox1 button{
+    width: 16%;
+    height: 35px;
+    margin-top: 2px;
+    color: white;
+    background-color: var(--pr-background-color);
+    border: none;
+    cursor:var(--pr-cursor);
+    
+}
